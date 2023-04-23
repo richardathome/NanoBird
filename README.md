@@ -13,3 +13,6 @@ of the built it fonts.
 
 Video of it running: https://youtu.be/DJYTGIEwXBs
 
+The schematic is about as simple as it can get:
+![](nano_bird_schematic_bb.png)
+
